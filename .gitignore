@@ -104,7 +104,8 @@ celerybeat-schedule
 .env
 .venv
 env/
-notebooks/conf/
+notebooks/conf/*
+notebooks/conf
 venv/
 ENV/
 env.bak/
