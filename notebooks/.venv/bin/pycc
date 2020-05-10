@@ -1,0 +1,3 @@
+#!/Users/leonardovida/dev/vodafoneziggo/notebooks/.venv/bin/python
+from numba.pycc import main
+main()
